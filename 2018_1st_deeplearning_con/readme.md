@@ -4,9 +4,14 @@
 
 
 
-# 슈퍼마리오 설치 메뉴얼
+# 슈퍼마리오 환경 설치 메뉴얼 및 튜토리얼
 
 https://github.com/wonseokjung/moduyeon_supermario
+
+# Sonic 환경 설치 메뉴얼
+
+https://wonseokjung.github.io//openairetro/update/Retro-1/
+
 
 # 발표 자료
 
